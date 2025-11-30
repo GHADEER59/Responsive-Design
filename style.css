@@ -42,4 +42,11 @@ color: black;
 .dropdown { position: relative;
 display: inline-block;
           }
+.zoomimage {
+ transition: 0.5s;      
+}
+ 
+.zoomimage:hover {
+ transform: scale(1.2);  
+}
           
